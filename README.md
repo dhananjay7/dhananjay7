@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h3 align="center">A passionate BTech student exploring DSA, MERN Stack & AI/ML</h3>
-<h4 align="center">2nd Year | Building & Learning | Open to Collaborate</h4>
+<h4 align="center">3rd Year | Building & Learning | Open to Collaborate</h4>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dhananjay7)](https://git.io/streak-stats)
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year BTech Student
+- 🎓 3rd Year BTech Student
 - 💻 Currently mastering Data Structures & Algorithms
 - 🌱 Learning MERN Stack (MongoDB, Express.js, React, Node.js)
 - 🤖 Exploring AI/ML fundamentals
